@@ -6,6 +6,6 @@ langchain-chroma
 langchain-core
 langchain-groq
 chromadb
-google-cloud
-google-cloud-generativelanguage
+google-generativeai
 beautifulsoup4
+gunicorn
